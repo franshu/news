@@ -1,1 +1,16 @@
-/* Holiii otra vez */
+	*{
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	font-family: 'Merriweather-Sans', sans-serif;
+}
+
+.bg-header{
+	background-color: white;
+	text-transform: uppercase;
+}
+
+.btn-red{
+	background-color: #EA4748;
+	color: white;
+}
