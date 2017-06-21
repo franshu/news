@@ -14,3 +14,18 @@
 	background-color: #EA4748;
 	color: white;
 }
+
+.caja {
+    overflow: hidden;
+}
+
+img{
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+
+.popular{
+	background-color: #EA4748;
+	color: white;
+}
